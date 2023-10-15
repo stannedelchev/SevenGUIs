@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34205.153
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenGUIs.Counter", "SevenGUIs.Counter\SevenGUIs.Counter.csproj", "{9C848418-3E5A-4206-A31F-BA55833E8CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C848418-3E5A-4206-A31F-BA55833E8CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C848418-3E5A-4206-A31F-BA55833E8CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C848418-3E5A-4206-A31F-BA55833E8CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C848418-3E5A-4206-A31F-BA55833E8CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F7A66B-2730-420F-A72E-021C5E15B78A}
+	EndGlobalSection
+EndGlobal
